@@ -33,5 +33,10 @@
         <artifactId>signinput</artifactId>
         <version>1.0.1</version>
     </dependency>
+        <dependency>
+        <groupId>net.monkeyfunky.devteam</groupId>
+        <artifactId>zomzoneeconomy</artifactId>
+        <version>0.2.3</version>
+    </dependency>
 </dependencies>
 ```
