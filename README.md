@@ -28,5 +28,10 @@
         <artifactId>zomzonestatus</artifactId>
         <version>1.0</version>
     </dependency>
+    <dependency>
+        <groupId>net.monkeyfunky.devteam</groupId>
+        <artifactId>signinput</artifactId>
+        <version>1.0.1</version>
+    </dependency>
 </dependencies>
 ```
