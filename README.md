@@ -21,7 +21,7 @@
     <dependency>
         <groupId>net.monkeyfunky.devteam</groupId>
         <artifactId>zomzonecore</artifactId>
-        <version>1.0.4</version>
+        <version>1.0.5</version>
     </dependency>
     <dependency>
         <groupId>net.monkeyfunky.devteam</groupId>
